@@ -20,13 +20,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/cal1_undistort_comparison.jpg "Calibration1 Undistorted"
+[image1]: ./output_images/cal1_undistort_comparison.png "Calibration1 Undistorted"
 [image2]: ./output_images/test1_undistort_comparison.png "Test1 Undistorted"
 [image3]: ./output_images/test4_threshold.png "Threshold Comparison"
-[image4]: ./output_images/gradx_low_thres_7px.png "Gradx threshold test"
-[image5]: ./output_images/schannel_low_thres.png "S threshold test"
+[image4]: ./output_images/gradx_low_thresh_7px.png "Gradx threshold test"
+[image5]: ./output_images/schannel_low_thresh.png "S threshold test"
 [image6]: ./output_images/mask_threshold.png "Mask threshold"
-[image7]: ./output_images/warp_straight.png "Warped image"
+[image7]: ./output_images/warp_straight1.png "Warped image"
 [image8]: ./output_images/line_fitting.png "Line detection and fitting"
 [image9]: ./output_images/test4_final_output.png "Final output"
 [video1]: ./project_video_output.mp4 "Video output"
